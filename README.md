@@ -1,1 +1,1 @@
-# kafka-mcp
+# kafka-mcp-repo
