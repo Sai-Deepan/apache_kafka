@@ -13,9 +13,6 @@ from typing import Any, Dict, Optional
 from mcp.server.fastmcp import Context, FastMCP
 
 from kafka_utils import (
-    KAFKA_BEST_PRACTICES,
-    KAFKA_PERFORMANCE_TUNING,
-    KAFKA_TROUBLESHOOTING_GUIDE,
     KafkaManager,
 )
 
