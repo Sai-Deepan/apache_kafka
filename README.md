@@ -560,7 +560,3 @@ Congratulations! You've successfully completed the Kafka MCP Server workshop.
 * [FastMCP Framework](https://github.com/modelcontextprotocol/python-sdk)
 * [Kafka Documentation](https://kafka.apache.org/documentation/)
 * [kafka-python Library](https://kafka-python.readthedocs.io/)
-
----
-
-**Happy Coding!** 🚀 
